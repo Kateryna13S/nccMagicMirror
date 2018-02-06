@@ -103,16 +103,6 @@ var config = {
 				coloredLogos: true
 			}
 		},
-		{
-			module: 'random_quotes',
-			position: 'lower_third',
-			config: {
-				category: 'motivational'
-				// The config property is optional
-				// Without a config, a random quote is shown,
-				// selected from all of the categories available.
-			}
-		}
 	]
 
 };
