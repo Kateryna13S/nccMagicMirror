@@ -112,21 +112,7 @@ var config = {
 				// Without a config, a random quote is shown,
 				// selected from all of the categories available.
 			}
-		},
-		{
-			module: 'twitControl',
-			position: 'top_center',
-			config: {
-				maxNumTweets: 5,
-				streamType: 'user',
-				api_keys: {
-					consumer_key: 'AOq5ETjP2bS8HfAqZua53qHEX',
-					consumer_secret: 'WOXOPC2nFjRPcwCcXXXvv2EuUjxx2R2YhVpZEACOtvn74Gydin',
-					access_token_key: '470785322-Xh49XBSh4oafLzTPJ3V4YCynCeoTISi1ohFaUNkG',
-					access_token_secret: 'u3hk4sUpJxziZEfyzvskVqp3A7S974BkrwZhyJgR2uCVw'
-				}
-			}
-		},
+		}
 	]
 
 };
